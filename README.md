@@ -19,36 +19,36 @@ General Population- Information about the covid incidence as well as risk of hos
 
 VARIABLES:
 
-case_month                   date of diagnosis
+case_month   :                         date of diagnosis
 
-res_state                    US State the patient resides
+res_state   :                          US State the patient resides
 
-state_fips_code               US state fips code
+state_fips_code    :                   US state fips code
 
-res_county                   US county patient resides
+res_county      :                       US county patient resides
 
-county_fips_code             US county fipi code
+county_fips_code    :                   US county fipi code
 
-age_group                    the age group range for the patient
+age_group        :                      the age group range for the patient
 
-sex                          gender(male/female)
+sex          :                          gender(male/female)
 
-race                         race of the patient
+race       :                             race of the patient
 
-ethnicity                    ethinicity of a patient 
+ethnicity      :                       ethinicity of a patient 
 
-process                      survellence, contact tracing,clinical evaluation
+process       :                        survellence, contact tracing,clinical evaluation
 
-exposure_yn                  exposure to virus
+exposure_yn      :                     exposure to virus
 
-current_status                lab diagnosed or propably suspicious
+current_status     :                    lab diagnosed or propably suspicious
 
-symptom_status               symptomatic/asymptomatic or unknown
+symptom_status      :                  symptomatic/asymptomatic or unknown
 
-hosp_yn                       yes/no/unknown
+hosp_yn          :                      yes/no/unknown
 
-icu_yn                       yes/no/unkmown
+icu_yn          :                      yes/no/unkmown
 
-death_yn                     yes/no/unknown
+death_yn        :                     yes/no/unknown
 
-underlying_conditions_yn     yes/no/unknown
+underlying_conditions_yn  :           yes/no/unknown
