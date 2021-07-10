@@ -16,3 +16,22 @@ Pharmaceutical companies and other medical device companies (mask, icu) can mark
 Small and local Businesses can manage and take proper decisions based on the trend in increase or decrease in covid cases in their geographical area.
 
 General Population- Information about the covid incidence as well as risk of hospitlisation may help general population take necessary measures in time of need and also otherwise.
+
+VARIABLES:
+case_month                   date of diagnosis
+res_state                    US State the patient resides
+state_fips_code               US state fips code
+res_county                   US county patient resides
+county_fips_code             US county fipi code
+age_group                    the age group range for the patient
+sex                          gender(male/female)
+race                         race of the patient
+ethnicity                    ethinicity of a patient         
+process                      survellence, contact tracing,clinical evaluation
+exposure_yn                  exposure to virus
+current_status                lab diagnosed or propably suspicious
+symptom_status               symptomatic/asymptomatic or unknown
+hosp_yn                       yes/no/unknown
+icu_yn                       yes/no/unkmown
+death_yn                     yes/no/unknown
+underlying_conditions_yn     yes/no/unknown
